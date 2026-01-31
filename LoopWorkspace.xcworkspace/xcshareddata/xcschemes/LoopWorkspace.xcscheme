@@ -196,6 +196,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C187C196279086A8006E3557"
+               BuildableName = "xDripClientPlugin.loopplugin"
+               BlueprintName = "xDripClientPlugin"
+               ReferencedContainer = "container:xdrip-client-swift/xDripClient.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "3E6007862D0C5D0C00B186D1"
                BuildableName = "DanaKitPlugin.loopplugin"
                BlueprintName = "DanaKitPlugin"
