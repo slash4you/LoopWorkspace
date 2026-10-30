@@ -88,6 +88,9 @@
       location = "group:dexcom-share-client-swift/ShareClient.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:xdrip-client-swift/xDripClient.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AmplitudeService/AmplitudeService.xcodeproj">
    </FileRef>
    <FileRef
